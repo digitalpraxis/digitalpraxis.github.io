@@ -10,8 +10,9 @@ url: "https://digitalpraxis.github.io/" # the base hostname & protocol for your 
 twitter_username: jekyllrb
 github_username:  jekyll
 
-google_analytics:
-theme: jekyll-theme-cayman
+# google_analytics:
+# theme: jekyll-theme-cayman
+# theme: jekyll-theme-minimal
 
 
 # Build settings
