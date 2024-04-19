@@ -1,9 +1,8 @@
 # Site settings
-title: Meine Digital Praxis
+title: Meine Praxis Digital
 email: kontakt@meine-praxis.digital
 description: > # this means to ignore newlines until "baseurl:"
   Building solutions to support healthcare providers.
-  Write an awesome description for your new site here. 
 # description will appear in your document head meta (for Google search results) 
 # and in your feed.xml site description.
 #baseurl: "/example" # the subpath of your site, e.g. /blog/
