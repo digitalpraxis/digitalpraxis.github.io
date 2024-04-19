@@ -1,22 +1,22 @@
 # Site settings
-title: Meine Digitale Praxis
-email: your-email@domain.com
+title: Meine Digital Praxis
+email: kontakt@meine-praxis.digital
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Building solutions to support healthcare providers.
+  Write an awesome description for your new site here. 
+# description will appear in your document head meta (for Google search results) 
+# and in your feed.xml site description.
 #baseurl: "/example" # the subpath of your site, e.g. /blog/
 url: "https://digitalpraxis.github.io/" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
 
-# google_analytics:
-# theme: jekyll-theme-cayman
+
+theme: jekyll-theme-cayman
 # theme: jekyll-theme-minimal
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# remote_theme: pages-themes/cayman@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
 
+# google_analytics:# TODO
 
 # Build settings
 markdown: kramdown
