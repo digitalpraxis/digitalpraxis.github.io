@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: Meine Praxis Digital
+url: "https://digitalpraxis.github.io/"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,10 +10,10 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: Building solutions to support healthcare providers.
 author:
   name:
-  email:
+  email: kontakt@meine-praxis.digital
   twitter: # twitter username without the @ symbol
 social:
   name: Hydra Template
@@ -86,14 +86,14 @@ exclude:
 
 _select_data:
   social_icons:
-    - Facebook
-    - Instagram
+    # - Facebook
+    # - Instagram
     - LinkedIn
-    - Pinterest
-    - Tumblr
-    - Twitter
-    - YouTube
-    - RSS
+    # - Pinterest
+    # - Tumblr
+    # - Twitter
+    # - YouTube
+    # - RSS
 
 _comments:
   map: Update the map location and display settings.
